@@ -1,5 +1,10 @@
 <div>
 <h1> OWASP Patna</h1>
+   
+## Welcome
+
+<img src="assets/images/LogoMain.png"/>
+   
 <p>
    Welcome to OWASP Patna! This chapter is built to share the knowledge regarding application security and other security stuff, on one place:)
 </p>
